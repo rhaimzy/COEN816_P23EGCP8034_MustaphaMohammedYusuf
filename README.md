@@ -19,3 +19,8 @@ This repository contains the full implementation of an integrated digital image 
 Install dependencies:
 ```bash
 pip install numpy opencv-python matplotlib scipy
+```
+## Run full pipeline:
+```bash
+python run_all.py
+```
