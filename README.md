@@ -4,10 +4,10 @@
 **Reg No:** P23EGCP8034  
 **Course:** COEN816 Digital Image Processing  
 
----
 
 ## Project Structure
 
+```
 COEN816_P23EGCP8034_MustaphaMohammedYusuf/
 │
 ├── code/
@@ -43,8 +43,7 @@ COEN816_P23EGCP8034_MustaphaMohammedYusuf/
 └── logs/
 └── experiments.csv
 
-
----
+```
 
 ## Project Summary
 
