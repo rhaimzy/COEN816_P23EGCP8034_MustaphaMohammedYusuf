@@ -1,7 +1,4 @@
-link to project resporatory
-
-https://github.com/rhaimzy/COEN816_P23EGCP8034_MustaphaMohammedYusuf
-
+```
 COEN816_P23EGCP8034_MustaphaMohammedYusuf
 │
 ├── code/
@@ -36,3 +33,5 @@ COEN816_P23EGCP8034_MustaphaMohammedYusuf
 │
 └── logs/
 └── experiments.csv
+
+```
